@@ -1,0 +1,9 @@
+{
+  "name": "zaks-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Z - AI Chatbot Website",
+  "dependencies": {
+    "openai": "^5.0.0"
+  }
+}
